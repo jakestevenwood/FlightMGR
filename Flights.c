@@ -6,7 +6,7 @@
 
 int main()
 {
-    printf("Jakob Wood\tN01410616\tHUMBER COLLEGE\n");
+    printf("Jakob Wood\tHUMBER COLLEGE\n");
     menu();
 
     do
